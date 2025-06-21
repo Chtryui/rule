@@ -355,4 +355,3 @@ DOMAIN,stun1.l.google.com
 DOMAIN,stun2.l.google.com
 DOMAIN,stun3.l.google.com
 DOMAIN,stun4.l.google.com
-IP-CIDR,127.0.0.1/32,no-resolve
