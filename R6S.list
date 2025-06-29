@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,mpsqosprod.northeurope.cloudapp.azure.com
 DOMAIN-SUFFIX,mpsqosprod.westeurope.cloudapp.azure.com 
 DOMAIN-SUFFIX,mpsqosprod.eastus.cloudapp.azure.com
 DOMAIN-SUFFIX,mpsqosprod.centralus.cloudapp.azure.com
+DOMAIN-SUFFIX,r6s1.battleye.com
 IP-CIDR,4.144.60.166/32,no-resolve                                      
 IP-CIDR,40.83.206.172/32,no-resolve     
 IP-CIDR,20.53.101.160/32,no-resolve  
