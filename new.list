@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,itool.co
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,ts3.uno
 DOMAIN-SUFFIX,ts3.red
-DOMAIN-REGEX,img*.utuku.imgcdc.com
+DOMAIN-SUFFIX,utuku.imgcdc.com
