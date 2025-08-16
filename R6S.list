@@ -26,6 +26,10 @@ DOMAIN,disp-rbsxbp-5-1.vivox.com
 DOMAIN,public-ubiservices.ubi.com
 DOMAIN,public-ws-ubiservices.ubi.com
 DOMAIN,public-im-ubiservices.ubi.com
+DOMAIN,cdn.r6-live.aws.r6.ubi.com
+DOMAIN,r6addonslive.akamaized.net
+DOMAIN,ubiservices.cdn.ubi.com
+DOMAIN,0d2ae42d-4c27-4cb7-af6c-2099062302bb-prod.s3.amazonaws.com
 IP-CIDR,4.144.60.166/32,no-resolve                                      
 IP-CIDR,40.83.206.172/32,no-resolve     
 IP-CIDR,20.53.101.160/32,no-resolve  
