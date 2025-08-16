@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,mpsqosprod.eastus.cloudapp.azure.com
 DOMAIN-SUFFIX,mpsqosprod.centralus.cloudapp.azure.com
 DOMAIN-SUFFIX,r6s1.battleye.com
 DOMAIN-SUFFIX,online-services.aws.r6.ubi.com
+DOMAIN-SUFFIX,public-im-ubiservices.ubi.com
 DOMAIN,rbsxbxp-mim.vivox.com
 DOMAIN,rbsxbxp.www.vivox.com
 DOMAIN,rbsxbxp-ws.vivox.com
