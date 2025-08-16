@@ -24,6 +24,7 @@ DOMAIN,rbswxp-mim.vivox.com
 DOMAIN,disp-rbspsp-5-1.vivox.com   
 DOMAIN,disp-rbsxbp-5-1.vivox.com
 DOMAIN,public-ubiservices.ubi.com
+DOMAIN,public-ws-ubiservices.ubi.com
 IP-CIDR,4.144.60.166/32,no-resolve                                      
 IP-CIDR,40.83.206.172/32,no-resolve     
 IP-CIDR,20.53.101.160/32,no-resolve  
