@@ -1,3 +1,13 @@
+# 嘉立创：
+DOMAIN,www.jlc.com
+DOMAIN,static.jlc.com
+DOMAIN,pbt-pub.jlc.com
+DOMAIN,fs-web-stream.jlc.com
+DOMAIN,passport.jlc.com
+DOMAIN,pbt-common.jlc.com
+DOMAIN,datasink.jlc.com
+DOMAIN-SUFFIX,jlc.com
+
 # 宝塔：
 DOMAIN,0197c408-fb08-71b0-a6b9-f9bb1aa7159c.spst1.com
 DOMAIN,www.bt.cn
