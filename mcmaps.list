@@ -3,7 +3,7 @@ DOMAIN,www.minecraftmaps.com
 #DOMAIN,www.googletagmanager.com
 #DOMAIN,fonts.googleapis.com
 #DOMAIN,fonts.gstatic.com
-#DOMAIN,ads.adthrive.com
+DOMAIN,ads.adthrive.com
 #DOMAIN,securepubads.g.doubleclick.net
 #DOMAIN,c.amazon-adsystem.com
 #DOMAIN,gpsb-reims.criteo.com
@@ -27,3 +27,16 @@ DOMAIN,vtrk.dv.tech
 DOMAIN,y.one.impact-ad.jp
 DOMAIN,www.temu.com
 DOMAIN,sync.inmobi.com
+DOMAIN,ssc-cms.33across.com
+DOMAIN,sb.scorecardresearch.com
+DOMAIN,prebid-server.rubiconproject.com
+DOMAIN,pixel.rubiconproject.com
+DOMAIN,logger.adthrive.com
+DOMAIN,launchpad-wrapper.privacymanager.io
+DOMAIN,krk2.kargo.com
+DOMAIN,ib.adnxs.com
+DOMAIN,s3m6.fenxi.com
+DOMAIN,api.intentiq.com
+DOMAIN,btlr.sharethrough.com
+DOMAIN,collector.brandmetrics.com
+
